@@ -1,4 +1,4 @@
-## 🧮 BCDDecimal
+## 🧮 DecimalLib
 
 ### Implementation of "binary-coded decimal" for decimal struct with high accuracy
 🚀 Developed in a structured programming style in pure C language.
